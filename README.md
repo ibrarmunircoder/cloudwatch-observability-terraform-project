@@ -2,7 +2,9 @@
 
 Set up end-to-end Proactive monitoring and alerting in AWS for your serverless application or component using CloudWatch and Terraform, along with custom metrics, CloudWatch Dashboard and alrams
 
-### 🚀 Overview:
+---
+
+### 📌 Project Overview:
 
 This project demonstrates how to implement end-to-end observability for a serverless AWS application using CloudWatch and Terraform. It leverages built-in Lambda metrics, custom log-based metrics, dashboards, and alarms to provide real-time insights into system performance and behavior.
 
