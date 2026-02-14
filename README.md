@@ -1,6 +1,12 @@
 ## 📊 AWS Observability Setup Using CloudWatch and Terraform
 
-Setup end-to-end Proactive monitoring and alerting in AWS for your serverless application or component using CloudWatch and terraform, along with custom metrics, CloudWatch Dashboard and alrams
+Set up end-to-end Proactive monitoring and alerting in AWS for your serverless application or component using CloudWatch and Terraform, along with custom metrics, CloudWatch Dashboard and alrams
+
+### 🚀 Overview:
+
+This project demonstrates how to implement end-to-end observability for a serverless AWS application using CloudWatch and Terraform. It leverages built-in Lambda metrics, custom log-based metrics, dashboards, and alarms to provide real-time insights into system performance and behavior.
+
+---
 
 ### Live Demo:
 
@@ -36,16 +42,12 @@ Operating without observability is like driving a car without a speedometer or f
 
 ![diagram](./screenshots/diagram.png)
 
-### 🚀 Overview:
-
-This project demonstrates how to implement end-to-end observability for a serverless AWS application using CloudWatch and Terraform. It leverages built-in Lambda metrics, custom log-based metrics, dashboards, and alarms to provide real-time insights into system performance and behavior.
-
 ---
 
 ### 🔍 Key Features:
 
 - Event-driven Lambda invocation triggered by S3 object uploads
-- CloudWatch dashboards for visualizing:
+- CloudWatch dashboards for visualising:
   - Built-in Lambda metrics
   - Custom application-level metrics
 - Custom CloudWatch metrics created using metric filters on Lambda logs
@@ -68,3 +70,11 @@ This project demonstrates how to implement end-to-end observability for a server
 - Improve system reliability, scalability, and operational visibility
 
 ---
+
+### 👨‍💻 Connect with me:
+
+**Ibrar Munir**
+
+Github: https://github.com/ibrarmunircoder </br>
+LinkedIn: https://www.linkedin.com/in/ibrar-munir-53197a16b </br> 
+Portfolio: https://ibrarmunir.d3psh89dj43dt6.amplifyapp.com
